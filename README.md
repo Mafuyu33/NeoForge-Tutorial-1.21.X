@@ -1,11 +1,20 @@
 <a href="https://www.youtube.com/playlist?list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF" target="_blank">
 <p align="center">
-<img src="https://kaupenjoe.net/files/General/Minecraft/Modding/Tutorials/neo-tutorial-image-1.jpg" alt="Logo" width="1000"/> 
+<img src="https://kaupenjoe.net/files/General/Minecraft/Modding/Tutorials/neo-tutorial-image-1.jpg" alt="NeoForge Modding Tutorials Cover" width="1000"/> 
 </p></a>
 
-# NeoForge Modding Tutorials For Minecraft 1.21.X 
-This is the GitHub Repository for Kaupenjoe's NeoForge Modding Tutorials For Minecraft 1.21.X
+# NeoForge Modding Tutorials for Minecraft 1.21.x  
+**Unofficial, adapted by Mafuyu33 — based on Kaupenjoe’s tutorials**
 
-The Individual Tutorials are seperated into Branches for ease of access. 
+This repository contains my adapted notes, example code, and exercises based on **Kaupenjoe**’s NeoForge Modding Tutorials for Minecraft **1.21.x**.  
+It is **unofficial** and not affiliated with or endorsed by Kaupenjoe.
 
-Watch the Tutorials here: <a href="https://www.youtube.com/playlist?list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF" target="_blank">YouTube Playlist</a>
+- Individual tutorials are **separated into branches** for easier access.
+- Watch the original series here: <a href="https://www.youtube.com/playlist?list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF" target="_blank">YouTube Playlist</a>.
+
+### Attribution / 署名
+Portions of this repository are adapted from works by **Kaupenjoe**, used under the **MIT License**.  
+Copyright (c) 2024 **Kaupenjoe**  
+Additions and modifications by **Mafuyu33** (2025).
+
+**中文说明**：本仓库为 **Mafuyu33** 基于 **Kaupenjoe** 教程改编的笔记与示例，非官方。原系列基于 MIT 许可使用与再发布。
