@@ -1,8 +1,3 @@
-<a href="https://www.youtube.com/playlist?list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF" target="_blank">
-<p align="center">
-<img src="https://kaupenjoe.net/files/General/Minecraft/Modding/Tutorials/neo-tutorial-image-1.jpg" alt="NeoForge Modding Tutorials Cover" width="1000"/> 
-</p></a>
-
 # NeoForge Modding Tutorials for Minecraft 1.21.x  
 **Unofficial, adapted by Mafuyu33 — based on Kaupenjoe’s tutorials**
 
